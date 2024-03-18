@@ -1,2 +1,4 @@
 # NEAT
-Implementing NEAT (NeuroEvolution of Augmenting Topologies)
+An implementation of NEAT (NeuroEvolution of Augmenting Topologies)
+
+Also includes an implementation of the Genetic Algorithm
